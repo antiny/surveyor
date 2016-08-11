@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - surveyor_development@localhost" uuid="cff5719e-01dd-44d0-b0dd-016cedfae7cf">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>surveyor_development.*</schema-pattern>
+      <default-schemas>surveyor_development.*</default-schemas>
+    </data-source>
+  </component>
+</project>
