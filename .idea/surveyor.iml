@@ -211,6 +211,7 @@
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.12.5, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v9.0.5, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="capybara (v2.7.1, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="chartkick (v2.0.1, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.1, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.2.1, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, RVM: ruby-2.3.1 [surveyor]) [gem]" level="application" />

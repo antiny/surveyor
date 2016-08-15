@@ -55,3 +55,4 @@ gem 'bootstrap', '~> 4.0.0.alpha3'
 gem 'rails-assets-tether'
 gem "reform"
 gem "reform-rails"
+gem "chartkick"
